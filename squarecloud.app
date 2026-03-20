@@ -1,0 +1,5 @@
+DISPLAY_NAME=GS25-Bot
+DESCRIPTION=Bot Cap Role GS25
+MAIN=bot.py
+MEMORY=128
+VERSION=recommended
